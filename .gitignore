@@ -46,3 +46,6 @@
 
 # Backup entities generated with doctrine:generate:entities command
 */Entity/*~
+.travis/phar-private.pem
+/console.phar
+/console.phar.pubkey

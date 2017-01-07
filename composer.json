@@ -1,0 +1,16 @@
+{
+    "name": "iphis/console",
+    "description": "Console-Application",
+    "type": "project",
+    "require": {
+        "symfony/console": "^3.2"
+    },
+    "license": "None",
+    "authors": [
+        {
+            "name": "Tobias Knipping",
+            "email": "knipping@tk-schulsoftware.de"
+        }
+    ],
+    "minimum-stability": "stable"
+}
